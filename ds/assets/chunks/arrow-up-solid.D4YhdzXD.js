@@ -1,0 +1,1 @@
+const l='<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 17"><path fill="currentColor" fill-rule="evenodd" d="M0 8.305a8 8 0 1 1 16 0 8 8 0 0 1-16 0m12.871 2.47a.661.661 0 0 0 .942-.001.67.67 0 0 0 0-.941L8.462 4.5a.67.67 0 0 0-.942 0L2.196 9.816a.67.67 0 0 0 0 .942.67.67 0 0 0 .942 0l4.853-4.844z" clip-rule="evenodd"/></svg>';export{l as default};

@@ -1,0 +1,1 @@
+const l='<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 17"><path fill="currentColor" fill-rule="evenodd" d="m8 3.709-8 9.6h16z" clip-rule="evenodd"/></svg>';export{l as default};

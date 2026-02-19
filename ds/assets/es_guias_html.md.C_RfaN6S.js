@@ -1,0 +1,1 @@
+import{Y as t,a as e,o as a}from"./chunks/ea-components.D7U-g8lq.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"es/guias/html.md","filePath":"es/guias/html.md","lastUpdated":1744708094000}'),s={name:"es/guias/html.md"};function r(o,n,c,i,m,d){return a(),e("div")}const _=t(s,[["render",r]]);export{p as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{d as o,a as s,o as c,r as t,Y as a}from"./ea-components.D7U-g8lq.js";/* empty css                                                               */const n={class:"doc-desc"},r=o({name:"DocDesc",__name:"DocDesc",setup(_){return(e,d)=>(c(),s("section",n,[t(e.$slots,"default",{},void 0,!0)]))}}),i=a(r,[["__scopeId","data-v-2ac3e772"]]);export{i as D};
