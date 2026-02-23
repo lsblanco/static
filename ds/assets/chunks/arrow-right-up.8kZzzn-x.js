@@ -1,1 +1,0 @@
-const a='<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 17"><path fill="currentColor" d="M15.334.642H8a.667.667 0 1 0 0 1.334h5.751L.195 15.505a.666.666 0 0 0 .942.942L14.666 2.944v5.698a.667.667 0 1 0 1.334 0V1.308a.676.676 0 0 0-.667-.667z"/></svg>';export{a as default};

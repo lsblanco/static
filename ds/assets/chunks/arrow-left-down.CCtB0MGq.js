@@ -1,1 +1,0 @@
-const o='<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 17"><path fill="currentColor" d="M.666 16.242H8a.667.667 0 1 0 0-1.334H2.249L15.805 1.38a.666.666 0 0 0-.942-.942L1.334 13.94V8.242a.667.667 0 1 0-1.334 0v7.325c0 .37.297.671.667.676z"/></svg>';export{o as default};

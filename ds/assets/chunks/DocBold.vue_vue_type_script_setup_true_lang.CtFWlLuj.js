@@ -1,1 +1,0 @@
-import{d as o,a as t,o as n,r}from"./ea-components.D7U-g8lq.js";const p=o({name:"DocBold",__name:"DocBold",props:{n:{type:String,default:"Título"}},setup(a){return(e,l)=>(n(),t("b",null,[r(e.$slots,"default")]))}});export{p as _};

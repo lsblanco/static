@@ -1,1 +1,0 @@
-import{d as e,a as s,o as t,r as a,Y as c}from"./ea-components.D7U-g8lq.js";/* empty css                                                               */const r={class:"doc-sub"},n=e({name:"DocSub",__name:"DocSub",setup(_){return(o,p)=>(t(),s("h5",r,[a(o.$slots,"default",{},void 0,!0)]))}}),m=c(n,[["__scopeId","data-v-5886e1ca"]]);export{m as D};
